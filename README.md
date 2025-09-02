@@ -29,6 +29,8 @@
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Skaffold-2AA4E1?logo=Skaffold&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge"/>
     </td>
   </tr>
